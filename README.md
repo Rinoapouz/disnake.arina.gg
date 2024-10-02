@@ -1,0 +1,2 @@
+# arisu
+a Discord bot
