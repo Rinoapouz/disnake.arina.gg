@@ -1,8 +1,8 @@
-<h1 align="center"> ARISU </h1>
+<h1 align="center"> AriSync </h1>
   <p align="center">
-    <a href="https://github.com/rinoapouz/arisu/issues">Report Bug</a>
+    <a href="https://github.com/rinoapouz/arisync/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rinoapouz/arisu/issues">Request Feature</a>
+    <a href="https://github.com/rinoapouz/arisync/issues">Request Feature</a>
   </p>
 </p>
 
