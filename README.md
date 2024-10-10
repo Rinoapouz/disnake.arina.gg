@@ -1,17 +1,29 @@
-<h1 align="center"> AriSync </h1>
+<h1 align="center"> Arisu </h1>
   <p align="center">
-    <a href="https://github.com/rinoapouz/arisync/issues">Report Bug</a>
+    <a href="https://github.com/rinoapouz/arisugg/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rinoapouz/arisync/issues">Request Feature</a>
+    <a href="https://github.com/rinoapouz/arisugg/issues">Request Feature</a>
   </p>
 </p>
 
+
+## 🔗 Quick Links
+soon..
+
+<br>
+
+> [!IMPORTANT]
+> ✨ See the [Official Documentation](#########) for more details.
+
+<br>
+
 ## 👋🏼 》About
-Arisu is a versatile and user-friendly Discord bot designed to enhance your server experience. <br>
+Arisu is a versatile and user-friendly Discord bot designed to enhance your server experience. 
+<br>
 Whether you need moderation tools, fun interactions, or utility features, 
 <br>
 <br>
-Arisu has it all!
+Arisu **will** have it all!
 
 
 ## 💎 》Features
