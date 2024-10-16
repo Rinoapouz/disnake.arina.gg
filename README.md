@@ -6,34 +6,28 @@
   </p>
 </p>
 
-
-## 🔗 Quick Links
-soon..
-
-<br>
-
-> [!IMPORTANT]
-> ✨ See the [Official Documentation](#########) for more details.
-
-<br>
-
 ## 👋🏼 》About
-Arisu is a versatile and user-friendly Discord bot designed to enhance your server experience. 
+Arisu is a versatile and user-friendly Discord bot designed to enhance your server experience. <br>
+Whether you need moderation tools, fun interactions, or utility features 
 <br>
-Whether you need moderation tools, fun interactions, or utility features, 
 <br>
-<br>
-Arisu **will** have it all!
+**Arisu** has it all!
 
 
 ## 💎 》Features
+- [x] Moderation | Clear & Nuke
+- [ ] Levelsystem | Not working rn
+- [x] automod
+- [x] Verificaton
+- [x] Help Command | Not working rn
+
 
 
 ## 🛠️ 》Support Server
 
 Do you need help? <br>
-[Arisu Support Server](https://discord.gg/XgMhS9tADv)
+[Arisu Support Server](link)
 
 ## 🏠 》 Host it yourself
 
-soon...
+coming soon...
