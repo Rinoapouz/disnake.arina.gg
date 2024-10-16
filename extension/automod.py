@@ -1,6 +1,6 @@
 import disnake
 from disnake.ext import commands
-import settings
+import botsettings
 
 def automod(bot):
     @bot.event
@@ -10,7 +10,7 @@ def automod(bot):
         if message.author == bot.user:
             return
 
-        if any(word in message.content.lower() for word in settings.automod_bannedwords):
+        if any(word in message.content.lower() for word in botsettings.automod_bannedwords):
             await message.delete()
             await message.channel.send(f"{message.author.mention}, your message contained banned words and was deleted.")
     
