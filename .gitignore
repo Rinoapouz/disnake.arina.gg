@@ -1,4 +1,4 @@
-
+.env
 /__pycache__
 /command/__pycache__
 /command/admin/__pycache__
