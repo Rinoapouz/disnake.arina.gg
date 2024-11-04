@@ -11,7 +11,7 @@ def SetVerifyChannel(bot):
         if ctx.channel.id == botsettings.verifysystem_VERIFY_CHANNEL_ID:
             embed = disnake.Embed(
                 title="Verification",
-                description="Click on the ✅ to verify yourself and gain access to the ✩ RinoaGang server.",
+                description="Click on the ✅ to verify yourself and gain access to the **✩ RinoaGang** server.",
                 color=disnake.Color.green()
             )
             msg = await ctx.send(embed=embed)

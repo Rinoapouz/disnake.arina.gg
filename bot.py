@@ -15,7 +15,7 @@ from extension.verifysystem import *
 
 # Kombiniert alle Commands / Extension und packt die in eine Liste
 command = [clear, nuke, help, level, SetVerifyChannel]
-extension = [verifyreaction, leveling, automod]
+extension = [verifyreaction, LevelSystem, automod]
 
 
 
